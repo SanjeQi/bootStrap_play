@@ -1,4 +1,23 @@
+body {
+  position: relative;
+}
 .box {
   background-color: lightgrey;
   border: 1px solid gray;
+}
+
+#div1 {
+  background-color: lightsalmon;
+}
+
+#div2 {
+  background-color: rgb(213, 122, 255);
+}
+
+#div3 {
+  background-color: rgb(201, 80, 110);
+}
+
+.divContent {
+  height: 800px;
 }
