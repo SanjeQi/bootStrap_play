@@ -21,3 +21,21 @@ body {
 .divContent {
   height: 800px;
 }
+
+.navbar-brand {
+  font-size: 1.7rem;
+}
+
+#topContainer {
+  background: no-repeat center center/cover url(space_image_1.jpg);
+  height: 100vh;
+  max-width: 100%;
+}
+#topRow {
+  margin: 10rem auto;
+}
+
+#topRow h1 {
+  color: rgb(239, 233, 241);
+  text-align: center;
+}
