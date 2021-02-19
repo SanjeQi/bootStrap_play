@@ -19,7 +19,7 @@ body {
 }
 
 .divContent {
-  height: 800px;
+  height: 1200px;
 }
 
 .navbar-brand {
@@ -35,7 +35,16 @@ body {
   margin: 10rem auto;
 }
 
-#topRow h1 {
+#topRow h1,
+p,
+form,
+.description_text h4,
+.description_info {
   color: rgb(239, 233, 241);
   text-align: center;
+  padding-top: 0.2rem;
+}
+
+#bi-badge-vr {
+  padding-right: 0.5rem;
 }

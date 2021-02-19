@@ -1,1 +1,1 @@
-$('#topContainer').css('height', $(window).height());
+$('#topContainer').css('min-height', $(window).height());
